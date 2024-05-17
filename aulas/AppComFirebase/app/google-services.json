@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568564526946",
+    "project_id": "app-com-firebase-a4554",
+    "storage_bucket": "app-com-firebase-a4554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568564526946:android:73c010efee6586fe1b463b",
+        "android_client_info": {
+          "package_name": "com.santos.valdomiro.appcomfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ijgGwXri7oGz9IuZ4swyf6E4DADz7b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
